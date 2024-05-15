@@ -27,4 +27,4 @@ To view the website locally, simply clone this repository to your local machine 
 
 Feedback and suggestions for improvement are always welcome! Feel free to reach out to Mark Chindudzi via email at markchindudzi716@gmail.com with any comments or questions.
 
-Thank you for visiting the Tutoring Hustle website!
+Thank you for visiting the Tutoring Hustle website! https://marknature.github.io/My-Tutoring-website/
